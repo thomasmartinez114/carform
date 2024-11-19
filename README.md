@@ -1,3 +1,5 @@
+Help me make a inventory application that will allow users to insert a new Car by its Make, Model, Year, and Color. Then also allow them to edit the data in the table. I want this displayed in Table and option to view in Card format
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
